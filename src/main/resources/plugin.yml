@@ -2,3 +2,5 @@ name: KillAdvertising
 version: '${version}'
 main: org.hoshizora.killadvertising.Main
 api-version: '1.20'
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.23
