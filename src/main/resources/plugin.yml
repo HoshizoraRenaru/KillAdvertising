@@ -1,0 +1,4 @@
+name: KillAdvertising
+version: '${version}'
+main: org.hoshizora.killadvertising.Main
+api-version: '1.20'
