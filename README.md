@@ -13,3 +13,6 @@ _[Showcase]_
 **Uses different emoji when you kill with Sword and Bow/Crossbow<br/>**
 **If a custom item name is applied, it will be displayed as a custom name.** If not, it will be output using the item tag.<br/>
 _(ex. netherite_sword → Netherite Sword, wooden_axe → Wooden Axe)_
+<br/>
+<br/>
+_Made by HoshizoraRenaru｜星空れなる_
