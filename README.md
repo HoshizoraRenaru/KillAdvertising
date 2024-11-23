@@ -1,6 +1,6 @@
 Target Version: MC 1.20.4 (JVM 17)
 
-# Detailed kill messages!
+# Detailed Kill Messages!
 
 **Activates when player get killed by other player.<br/>**
 (The message will not change when you dies naturally)
