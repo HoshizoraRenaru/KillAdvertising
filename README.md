@@ -15,4 +15,4 @@ _[Showcase]_
 _(ex. netherite_sword → Netherite Sword, wooden_axe → Wooden Axe)_
 <br/>
 <br/>
-_Made by HoshizoraRenaru｜星空れなる_
+_Made by HoshizoraRenaru/星空れなる_
