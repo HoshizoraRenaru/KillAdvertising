@@ -1,3 +1,4 @@
+[Plugin]
 Target Version: MC 1.20.4 (Java 17)
 
 # Detailed Kill Messages!
